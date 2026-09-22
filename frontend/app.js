@@ -1,4 +1,4 @@
-const API_URL = "backend-orcin-nine-51.vercel.app";
+const API_URL = "https://login-system-api-b5l7.onrender.com";
 
 const loginForm = document.getElementById("loginForm");
 const registerForm = document.getElementById("registerForm");
